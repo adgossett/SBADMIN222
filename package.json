@@ -16,7 +16,7 @@
         "admin",
         "app"
     ],
-    "homepage": "https://startbootstrap.com/theme/sb-admin-2",
+    "homepage": "https://dainty-swan-e711ec.netlify.app",
     "bugs": {
         "url": "https://github.com/StartBootstrap/startbootstrap-sb-admin-2/issues",
         "email": "development@violet-designz.com"
@@ -28,7 +28,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-sb-admin-2.git"
+        "url": "https://github.com/adgossett/SBADMIN222"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.15.3",
